@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+/* reset */
+body,h1,h2,h3,h4,h5,p,dl,dd,ul,ol,form,input,textarea,th,td,tbody,table,select,span,em{margin:0;padding:0;list-style: none;}
+em {font-style:normal;}
+li {list-style:none;}
+img {border:none;}
+table {border-collapse:collapse;}
+textarea {outline:none;}
+textarea {resize:none;overflow:auto;}
+body{background: #F0F2F5;font-family: "微软雅黑";}
+input{outline:none;border: none;}
+a:focus{outline:none;}
+a{text-decoration: none;text-decoration:none;}
+.clearFix{zoom:1;}
+.clearFix:after {clear: both;display: block;content: "";}
+.fl{float:left;}
+/*.fr{float:right;}*/
+/* end reset */
+
+
